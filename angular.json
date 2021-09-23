@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "meipontocom"
+  "defaultProject": "meipontocom",
+  "cli": {
+    "analytics": "e17e5ccb-51d1-4b8c-9fb8-eeb05e766374"
+  }
 }
